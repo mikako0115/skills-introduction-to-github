@@ -1,5 +1,11 @@
 <header>
-
+<!--
+  Four Steps for Github Starter
+  ・create a branch
+  ・commit a file
+  ・open pull requests
+  ・merge pull requests
+-->
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
